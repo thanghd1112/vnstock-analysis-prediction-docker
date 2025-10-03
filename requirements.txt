@@ -1,0 +1,15 @@
+streamlit==1.37.1
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+plotly==5.22.0
+vnstock==3.2.6
+requests==2.32.3
+ta==0.11.0
+pmdarima==2.0.4
+statsmodels==0.14.2
+scikit-learn==1.5.1
+underthesea==6.8.0
+gnews==0.3.6
+python-dateutil==2.9.0.post0
+prophet==1.1.6
